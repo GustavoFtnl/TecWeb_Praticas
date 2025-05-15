@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(246, 232, 230);
+    padding: 12px;
+    padding-bottom: 50px;
+}
+
+h1{
+    text-align: center;
+}
+
+.objetivo{
+    text-align: center;
+}
+
+.topico {
+    color: brown;
+    font-size: 20px;
+    text-align: center;
+}
+
+a {
+    color: rgb(191, 38, 38)
+}
+
+.secao {
+    background-color: rgba(233, 194, 155, 0.51);
+    padding: 12px;
+}
+
+.topicoLista {
+    background-color: rgba(233, 194, 155, 0.51);
+    padding: 12px;
+    text-align: center;
+}
